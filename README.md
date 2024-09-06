@@ -1,4 +1,3 @@
-**Project Decription**
 **Tech Stack for Note App backend**
 Backend: Node.js, Express.js
 Database: MongoDB with Mongoose
